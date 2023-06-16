@@ -1,1 +1,2 @@
-# tabesugite.dev
+# たべすぎて.dev
+たべすぎて.dev になっちゃった
